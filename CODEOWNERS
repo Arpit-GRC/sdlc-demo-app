@@ -1,0 +1,10 @@
+# CODEOWNERS
+# Every file in this repo requires review from the code owner before merge.
+# This, combined with a branch protection rule that disallows self-approval,
+# is what enforces Segregation of Duties (Control #1) on this repo.
+#
+# Replace @yourusername below with your actual GitHub username once the repo
+# is created. If you're the sole maintainer, this is intentionally symbolic —
+# real teams would list a second reviewer/team here.
+
+*       @yourusername
